@@ -1,0 +1,25 @@
+sku,product,category,unit_price,stock_qty,reorder_level,lead_time_days,supplier,sales_jul,sales_aug,sales_sep
+P001,Basmati Rice 5kg,Staples,620,48,30,5,Sharma Traders,62,70,66
+P002,Aashirvaad Atta 5kg,Staples,265,18,40,3,Sharma Traders,85,90,98
+P003,Aashirvaad Atta 10kg,Staples,510,55,25,3,Sharma Traders,40,44,41
+P004,Toor Dal 1kg,Staples,165,22,30,4,Sharma Traders,58,61,64
+P005,Sugar 1kg,Staples,48,140,60,2,Sharma Traders,120,118,125
+P006,Fortune Sunflower Oil 1L,Oils,155,36,40,4,Gupta Wholesale,90,95,102
+P007,Mustard Oil 1L,Oils,175,60,30,4,Gupta Wholesale,45,48,50
+P008,Amul Ghee 500ml,Dairy,345,14,20,7,Amul Distributor,30,34,38
+P009,Amul Butter 500g,Dairy,285,25,20,2,Amul Distributor,40,38,45
+P010,Amul Toned Milk 1L,Dairy,56,40,80,1,Amul Distributor,400,410,420
+P011,Tata Salt 1kg,Staples,28,200,80,2,Sharma Traders,150,155,160
+P012,Maggi Noodles 4-pack,Snacks,56,95,50,3,Nestle Distributor,110,105,118
+P013,Parle-G Biscuits 800g,Snacks,80,0,30,3,Parle Distributor,70,75,72
+P014,Britannia Good Day 600g,Snacks,120,45,25,3,Britannia Distributor,35,30,33
+P015,Lays Classic Chips 52g,Snacks,20,300,100,3,PepsiCo Distributor,90,85,80
+P016,Tata Tea Gold 500g,Beverages,290,30,20,4,Tata Distributor,28,30,32
+P017,Nescafe Classic 100g,Beverages,340,12,15,5,Nestle Distributor,18,20,22
+P018,Surf Excel 1kg,Household,225,42,25,4,HUL Distributor,30,28,33
+P019,Vim Dishwash Gel 500ml,Household,105,65,30,4,HUL Distributor,35,38,36
+P020,Colgate Strong Teeth 200g,Personal Care,120,50,30,4,Colgate Distributor,40,42,39
+P021,Dettol Soap 3-pack,Personal Care,135,8,20,4,RB Distributor,25,27,30
+P022,Dove Shampoo 340ml,Personal Care,340,28,15,5,HUL Distributor,12,14,13
+P023,Himalaya Face Wash 100ml,Personal Care,175,33,10,5,Himalaya Distributor,0,0,0
+P024,Haldiram Bhujia 400g,Snacks,130,52,25,3,Haldiram Distributor,38,40,44
